@@ -59,3 +59,43 @@ This project is organized into four repositories:
 
 3. [Seizure-Alert-Mobile-App](https://github.com/Reemwael720/Seizure-Alert-Mobile-App)
 - Flutter application for real-time patient monitoring, seizure alerts, and medical data visualization.
+
+---------------------------
+
+  ## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Reemwael720">
+        <img src="https://avatars.githubusercontent.com/Reemwael720" width="150px;" alt=""/><br/>
+        <sub><b>Reem Al_Ghazali</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/momensaied">
+        <img src="https://avatars.githubusercontent.com/momensaied" width="150px;" alt=""/><br/>
+        <sub><b>Momen Saied</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nouranmohamedmm">
+        <img src="https://avatars.githubusercontent.com/nouranmohamedmm" width="150px;" alt=""/><br/>
+        <sub><b>Nouran Mohamed</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Arwa-eng">
+        <img src="https://avatars.githubusercontent.com/Arwa-eng" width="150px;" alt=""/><br/>
+        <sub><b>Arwa Mohamed</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/emadsamuel78-debug">
+        <img src="https://avatars.githubusercontent.com/emadsamuel78-debug" width="150px;" alt=""/><br/>
+        <sub><b>Emad Samuel</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
