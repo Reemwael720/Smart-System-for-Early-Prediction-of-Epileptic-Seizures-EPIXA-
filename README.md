@@ -43,3 +43,17 @@ An AI-powered wearable healthcare system for predicting epileptic seizures befor
 ## 🎯 Project Goal
 
 The goal of this project is to develop an intelligent wearable healthcare system capable of predicting epileptic seizures before they occur. The wearable device collects physiological data, while the mobile application performs signal processing, feature extraction, AI-based prediction, and real-time patient monitoring to provide early warnings and improve patient safety.
+
+
+
+## 🔗 Related Repositories
+This project is organized into four repositories:
+
+1. [AI-Seizure-Prediction](https://github.com/Reemwael720/AI-Seizure-Prediction)
+- Machine learning pipeline for ECG signal processing, feature extraction, seizure prediction, and multimodal fusion.
+
+2. [Wearable-Seizure-Detection-Hardware](https://github.com/Reemwael720/Wearable-Seizure-Detection-Hardware)
+- Hardware design including ECG sensor integration, microcontroller firmware, PCB design, and wearable device implementation.
+
+3. [Seizure-Alert-Mobile-App](https://github.com/Reemwael720/Seizure-Alert-Mobile-App)
+- Flutter application for real-time patient monitoring, seizure alerts, and medical data visualization.
