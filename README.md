@@ -11,7 +11,7 @@ An AI-powered wearable healthcare system for predicting epileptic seizures befor
 |------------|-------------|
 | **AI-Seizure-Prediction** | Machine learning pipeline for seizure prediction using ECG signals and multimodal fusion. |
 | **Wearable-Seizure-Detection-Hardware** | Hardware design including sensors, microcontroller, PCB, and embedded firmware. |
-| **Seizure-Alert-Mobile-App** | Flutter mobile application for real-time monitoring and seizure alerts. |
+| **Seizure-Alert-Mobile-App** | Flutter mobile application for signal processing, AI prediction, real-time monitoring, and seizure alerts. |
 
 ---
 
@@ -19,10 +19,10 @@ An AI-powered wearable healthcare system for predicting epileptic seizures befor
 
 - 🐍 Python
 - 🤖 Random Forest
-- ❤️ Biomedical Signal Processing
-- 📈 ECG Analysis
+- ❤️ ECG Signal Processing
+- 📈 Feature Extraction
 - 📱 Flutter
-- ⚡ Arduino / ESP32
+- ⚡ ESP32
 - 🖥️ PCB Design
 - 🔧 Embedded Systems
 
@@ -30,16 +30,16 @@ An AI-powered wearable healthcare system for predicting epileptic seizures befor
 
 ## 🔄 Project Workflow
 
-1. 📡 Collect ECG and motion signals from the wearable hardware.
-2. 🧹 Preprocess the acquired biomedical signals.
-3. 📊 Extract ECG and motion features.
-4. 🤖 Predict epileptic seizures using the AI model.
-5. 📲 Send the prediction results to the mobile application.
-6. 🚨 Notify the patient before seizure onset.
-7. ❤️ Enable continuous patient monitoring and real-time alerts.
+1. 📡 The wearable device continuously acquires ECG and motion signals.
+2. 📲 The collected data is transmitted wirelessly to the mobile application.
+3. 🧹 The mobile application preprocesses the received signals.
+4. 📊 ECG and motion features are extracted.
+5. 🤖 The AI model predicts whether a seizure is likely to occur.
+6. 🚨 If a seizure is predicted, the application immediately sends an alert to the patient.
+7. ❤️ The application displays real-time monitoring and prediction results.
 
 ---
 
 ## 🎯 Project Goal
 
-This project aims to develop an intelligent wearable healthcare system that predicts epileptic seizures before they occur. By combining wearable hardware, ECG signal processing, artificial intelligence, and a mobile application, the system provides early warnings to improve patient safety and support continuous health monitoring.
+The goal of this project is to develop an intelligent wearable healthcare system capable of predicting epileptic seizures before they occur. The wearable device collects physiological data, while the mobile application performs signal processing, feature extraction, AI-based prediction, and real-time patient monitoring to provide early warnings and improve patient safety.
